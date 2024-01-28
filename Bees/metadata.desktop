@@ -1,0 +1,18 @@
+ 
+[Desktop Entry]
+Comment=
+
+Encoding=UTF-8
+Keywords=
+Name=Bees
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Name=Bees
+X-KDE-PluginInfo-Author=Smokey
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-Plasma-MainScript=defaults
